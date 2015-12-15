@@ -1,2 +1,2 @@
 # hello-world
-a playground to get started with github
+A playground to become acquainted with github.

@@ -12,6 +12,6 @@ This image documents a ``port forwarding rule`` for ``ssh`` and was uploaded usi
 Snippets of code can be formatted nicely - like so:
 
  ```sh
-  sudo ifconfig eth1 free.ip.local.network netmask 255.225.255.0 up
-  sudo route add default gw .ip.gateway.local.network eth1 
+  sudo ifconfig eth1 unused.ip.local.network netmask 255.225.255.0 up
+  sudo route add default gw ip.gateway.local.network eth1 
   ```

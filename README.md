@@ -13,5 +13,7 @@ Snippets of code can be formatted nicely - like so:
 
  ```sh
   sudo ifconfig eth1 unused.ip.local.network netmask 255.225.255.0 up
-  sudo route add default gw ip.gateway.local.network eth1 
+  sudo route add default gw ip.gateway.local.network eth1
   ```
+
+or embedded in plain text and emphasized as `docker run -it ...`. This help to structure explanations and code.

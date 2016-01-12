@@ -7,3 +7,6 @@ This is my playground to become acquainted with [github](http://www.github.com),
 ![ssh portforwarding](https://cloud.githubusercontent.com/assets/16167839/12245832/463a9436-b8ab-11e5-9670-06b7e3bc6e09.png)
 
 This image documents a ``port forwarding rule`` for ``ssh`` and was uploaded using this guide ...
+
+
+Snippets of code can be formatted nicely - like so:
